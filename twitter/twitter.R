@@ -19,10 +19,10 @@ library("RWekajars")
 ## download.file(url="http://curl.haxx.se/ca/cacert.pem", destfile="cacert.pem")
 
 #to get your consumerKey and consumerSecret see the twitteR documentation for instructions
-consumer_key <- 'LvXKkGNnRIHKlIVJHjNNCw'
-consumer_secret <- 'NwSOc20BqaRRaug5HDF3Mgif6xBj8Nzo6MtkbAUmRQ'
-access_token <- '267808325-ktFb93md3siuoZAZSrHtJpHwHbD7KqWmRCbiqoXa'
-access_secret <- '9QMoF24ZJMlgVAGftkoPzRI6WiGM1czGn36WB7Y8lVM'
+consumer_key <- ''
+consumer_secret <- ''
+access_token <- ''
+access_secret <- ''
 setup_twitter_oauth(consumer_key,
                     consumer_secret,
                     access_token,
