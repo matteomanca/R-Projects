@@ -32,7 +32,7 @@ earth.dist <- function (long1, lat1, long2, lat2)
 ##########################################################################################
 ##########################################################################################
 
-trayFileName <- "/Users/matteo.manca/Dropbox/Sync/Research-Projects/Projects/Eurecat/urbaning/trayectories/2015-complete/local_flickr_pairs_2015.csv" ## Locals
+trayFileName <- "local_flickr_pairs_2015.csv" ## Locals
 trays <- read.csv(trayFileName, sep = ' ', header = FALSE)
 
 head(trays)
